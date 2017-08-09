@@ -1,0 +1,24 @@
+{
+  "name": "home-work/package",
+  "type": "library",
+  "description": "A package to test packagist",
+  "keywords": ["test", "uarmadik"],
+  "homepage": "https://github.com/uarmadik/home-work/tree/master/package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ihor Harmider",
+      "email": "uarmadik@gmail.com",
+      "homepage": "http://userok.zzz.com.ua/portfolio",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^5.3.3 || ^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Time": "package"
+    }
+  }
+}
