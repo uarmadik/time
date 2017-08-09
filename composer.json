@@ -1,5 +1,5 @@
 {
-  "name": "home-work/package",
+  "name": "uarmadik/time",
   "type": "library",
   "description": "A package to test packagist",
   "keywords": ["test", "uarmadik"],
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Time": "package"
+      "Time": "/"
     }
   }
 }
