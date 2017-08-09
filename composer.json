@@ -1,5 +1,6 @@
 {
   "name": "uarmadik/time-test",
+  "minimum-stability": "stable",
   "type": "library",
   "description": "A package to test packagist",
   "keywords": ["test", "uarmadik"],
